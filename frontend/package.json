@@ -1,7 +1,7 @@
 {
-  "name": "freelance-developer-website",
+  "name": "Armando Del Rio Porfolio",
   "version": "1.0.0",
-  "description": "Freelance Developer Website",
+  "description": "Armando Del Rio Porfolio Software Developer Website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
