@@ -55,7 +55,7 @@ venv\scripts\activate
 From the **backend** directory, run:
 
 ```bash
-pip install -r requirements.txt
+pip install --cache-dir .pip_cache -r requirements.txt
 ```
 
 #### 4. Run migrations
