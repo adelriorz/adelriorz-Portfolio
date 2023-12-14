@@ -101,6 +101,7 @@ To run the application, you need to have both the backend and the frontend up an
 From the **backend** directory, run:
 
 ```bash
+python manage.py check --deploy
 python manage.py runserver
 ```
 
